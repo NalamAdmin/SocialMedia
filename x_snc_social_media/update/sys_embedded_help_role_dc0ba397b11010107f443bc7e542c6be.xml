@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_socialmediamanagement_flowdesigner" name="sn_dd_socialmediamanagement_flowdesigner">dc0ba397b11010107f443bc7e542c6bb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-26 12:52:19</sys_created_on>
+        <sys_id>dc0ba397b11010107f443bc7e542c6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dc0ba397b11010107f443bc7e542c6bb</sys_name>
+        <sys_package display_value="Social Media Management" source="x_snc_social_media">9a6c42fea9e323007f445d9995b82f9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Media Management">9a6c42fea9e323007f445d9995b82f9a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dc0ba397b11010107f443bc7e542c6be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-26 12:52:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
